@@ -1,0 +1,31 @@
+{
+  "name": "typescript-learn-demo",
+  "version": "1.0.0",
+  "description": "专门用于学习typescipt的工程，里面都是typescipt的学习实践和实例",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caoweiju/typescript-learn-demo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/caoweiju/typescript-learn-demo/issues"
+  },
+  "homepage": "https://github.com/caoweiju/typescript-learn-demo#readme",
+  "devDependencies": {
+    "@typescript-eslint/parser": "^1.4.2",
+    "eslint": "^5.15.1",
+    "eslint-config-airbnb": "^17.1.0",
+    "eslint-plugin-import": "^2.16.0",
+    "eslint-plugin-jsx-a11y": "^6.2.1",
+    "eslint-plugin-react": "^7.12.4",
+    "postcss-loader": "^3.0.0",
+    "ts-loader": "^5.3.3",
+    "typescript": "^3.3.3333",
+    "webpack": "^4.29.6"
+  }
+}
